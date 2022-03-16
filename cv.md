@@ -69,10 +69,8 @@ console.log(countCats(arr));
 >**Theseus Lab s.r.o.**
 
 ### Deputy Chief of Central Plant Lab (2017-2018)
->**OJSC “BSW - management company of “BMC” holding”**
 
 ### Head of steelcord and wire production department of Central Plant Lab (2016-2017)
->**OJSC “BSW - management company of “BMC” holding”**
 
 ### Engineer of X-RAY analysis (2012-2016)
 >**OJSC “BSW - management company of “BMC” holding”**
